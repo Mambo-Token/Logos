@@ -12,6 +12,8 @@ Kroc Bot Marketplace: t.me/kroc_otc_bot
 
 Token socials:
 
+$MAMBO
+
 Bio.link/Mambo
 
 x.com/MamboCoins
